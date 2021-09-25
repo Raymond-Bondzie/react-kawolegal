@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.links{
+  margin-top: 35px;
+  font-size: 17px;
+  
+}
+
+.link{
+  color: red;
+  margin-right: 20px;
+  border: 0px;
+}
+
+.link:hover{
+  background-color: white;
+  padding: 10px;
+  color: red;
+  border: 0;
+  text-decoration: none;
+
+}
+
+.boldText{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.blue{
+  color: blue;
+  font-size: 20px;
+}
+

@@ -1,0 +1,53 @@
+.navbar{
+	height: 70px;
+	background: rgb(161, 52, 32);
+	border-radius: 0;
+	padding-bottom: 0px;
+	margin-bottom: 0;
+}
+
+.links>li>a{
+	color: red;
+	text-decoration: none;
+	font: bold;
+}
+
+.bodybg {
+	background-color: rgb(239, 239, 239);
+}
+
+
+.home{
+	border: 1px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+	background: rgb(161, 52, 32);
+	margin-top: 15px;
+	padding: 10px;
+}
+
+.icon{
+	margin-left: 20px;
+	padding-right: 10px;
+	font-size: 20px;
+	color: rgb(104, 207, 241);
+}
+.text-color{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
